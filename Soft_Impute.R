@@ -1,9 +1,9 @@
 #######################################
-############ Thai T. Pham #############
-######## Stanford University ##########
+#            Thai T. Pham             #
+#        Stanford University          #
 #######################################
 
-# NOTICE: The codes are not optimized for speed #
+# NOTICE: The code is not optimized for speed #
 
 # Convex matrix approximations 
 # This is the SOFT-IMPUTE algorithm in Mazunder, Hastie, and Tibs (2010).
