@@ -3,7 +3,7 @@
 #         Stanford University             #
 ###########################################
 
-# * Warning: The codes are not optimized for speed.
+# * Warning: The code is not optimized for speed.
 
 import snap
 import random
