@@ -1,9 +1,9 @@
 #######################################
-############ Thai T. Pham #############
-######## Stanford University ##########
+#            Thai T. Pham             #
+#        Stanford University          #
 #######################################
 
-# NOTICE: The codes are not optimized for speed #
+# NOTICE: The code is not optimized for speed #
 
 # Gap-style Test to determine the optimal number of
 # components of PCA to use
