@@ -1,6 +1,6 @@
 ###############################################################################
 #                                Thai T. Pham                                 #
-#                           thaipham@stanford.edu                             #
+#                            Stanford University                              #
 #                                                                             #
 #                  * The codes are not optimized for speed.                   #
 #                                                                             #
@@ -8,8 +8,6 @@
 from copy import deepcopy
 import numpy as np
 import matplotlib.pyplot as plt
-
-# (Parts of) Programming Assignment of HW 3 of CS 228
 
 # This is an algorithms for reliable communication in the presence of noise. 
 # We focus on error correcting codes based on highly sparse, low density parity 
