@@ -3,7 +3,7 @@
 #      Stanford University    #
 ###############################
 
-# * The code is not optimized for speed #
+# NOTICE: The code is not optimized for speed #
 
 from copy import deepcopy
 import numpy as np
