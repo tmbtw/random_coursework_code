@@ -1,10 +1,10 @@
-###############################################################################
-#                                Thai T. Pham                                 #
-#                            Stanford University                              #
-#                                                                             #
-#                   * The code is not optimized for speed.                    #
-#                                                                             #
-###############################################################################
+###############################
+#         Thai T. Pham        #
+#      Stanford University    #
+###############################
+
+# * The code is not optimized for speed #
+
 from copy import deepcopy
 import numpy as np
 import matplotlib.pyplot as plt
