@@ -2,7 +2,7 @@
 #                                Thai T. Pham                                 #
 #                            Stanford University                              #
 #                                                                             #
-#                  * The codes are not optimized for speed.                   #
+#                   * The code is not optimized for speed.                    #
 #                                                                             #
 ###############################################################################
 from copy import deepcopy
