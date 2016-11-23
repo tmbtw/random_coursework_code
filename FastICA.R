@@ -1,9 +1,9 @@
 #######################################
-############ Thai T. Pham #############
-######## Stanford University ##########
+#            Thai T. Pham             #
+#        Stanford University          #
 #######################################
 
-# NOTICE: The codes are not optimized for speed #
+# NOTICE: The code is not optimized for speed #
 
 # FastICA Algorithm
 # MaxIter is set at high value, e.g. 20,000
