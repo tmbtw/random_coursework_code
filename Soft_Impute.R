@@ -1,6 +1,6 @@
 #######################################
 ############ Thai T. Pham #############
-####### thaipham@stanford.edu #########
+######## Stanford University ##########
 #######################################
 
 # NOTICE: The codes are not optimized for speed #
